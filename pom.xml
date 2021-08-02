@@ -22,7 +22,7 @@
 		<java.version>1.8</java.version>
 		<kotlin.version>1.3.70</kotlin.version>
 
-		<commons-compress.version>1.19</commons-compress.version>
+		<commons-compress.version>1.21</commons-compress.version>
 		<plantuml.version>1.2020.4</plantuml.version>
 		<xz.version>1.8</xz.version>
 
